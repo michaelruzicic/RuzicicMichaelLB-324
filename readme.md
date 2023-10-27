@@ -28,6 +28,6 @@
 1. Bei Azure unter "App Service" auf Konfiguration gehen
 
 2. Eine neue Anwendungseinstellung addieren und das Passwort der lokalen `.env` eingeben.
-  (Achtung: Achte darauf, dass du beim namen "PASSWORD" und nicht "PASSWORT" eingibst.)
+  (Achtung: Achte darauf, dass du beim Namen "PASSWORD" und nicht "PASSWORT" eingibst.)
 
 4. Auf die eigene Website gehen und schauen, ob das Passwort funktioniert.
