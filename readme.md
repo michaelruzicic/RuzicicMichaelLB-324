@@ -9,13 +9,13 @@
    ```
    pip install pre-commit
    ```
-   
+
 * Installiere die Hooks:
 
   ```
   pre-commit install
   ```
-  
+
 * So funktioniert die Ausführung der Hooks:
   ```
   pre-commit run --all-files
@@ -26,7 +26,7 @@
 ### Main Domain: https://ruzicicmichaellb-324.azurewebsites.net/
 
 1. Bei Azure unter "App Service" auf Konfiguration gehen
-   
+
 
 3. Eine neue Anwendungseinstellung addieren und das Passwort der lokalen `.env` eingeben.
    * (Achtung: Achte darauf, dass du beim Namen "PASSWORD" und nicht "PASSWORT" eingibst.)
