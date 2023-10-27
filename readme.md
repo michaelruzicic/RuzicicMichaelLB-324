@@ -14,7 +14,6 @@
 
   ```
   pre-commit install
-
   ```
   
 * So funktioniert die Ausführung der Hooks:
