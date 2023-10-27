@@ -1,6 +1,6 @@
 # LB 324
 
-# Aufgabe 2 | Installation von `pre-commit`
+## Aufgabe 2 | Installation von `pre-commit`
 
 `pre-commit` wird für automatische Code-Formatierung und Tests verwendet. So richtet man es im Terminal ein:
 
@@ -14,7 +14,6 @@
 
   ```
   pre-commit install
-
   ```
   
 * So funktioniert die Ausführung der Hooks:
