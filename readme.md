@@ -21,5 +21,12 @@
   pre-commit run --all-files
   ```
 
-# Aufgabe 4
-Erklären Sie hier, wie Sie das Passwort aus Ihrer lokalen `.env` auf Azure übertragen.
+# Aufgabe 4 | Passwort aus dem lokalen `.env` auf Azure übertragen
+
+### Main Domain: https://ruzicicmichaellb-324.azurewebsites.net/
+
+1. Bei Azure unter "App Service" auf Konfiguration gehen
+
+2. Eine neue Anwendungseinstellung addieren und das Passwort der lokalen `.env` eingeben.
+
+3. Auf die eigene Website gehen und schauen, ob das Passwort funktioniert.
