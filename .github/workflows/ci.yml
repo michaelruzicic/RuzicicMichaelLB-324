@@ -1,6 +1,9 @@
 name: Run Tests on PR to dev
 
 on:
+  push:
+    branches:
+      - dev
   pull_request:
     branches:
       - dev
